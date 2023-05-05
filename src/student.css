@@ -1,0 +1,99 @@
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    padding: 20px;
+}
+.student_data{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+
+
+}
+#root{
+    position: relative;
+}
+.table_header{
+    text-align: center;
+    border: 1px solid #bbb;
+    padding: 1rem;
+    margin: 20px;
+    border: 1px solid #ccc;
+    background-color: aliceblue; 
+}
+.student_row2{
+    text-align: center;
+    border: 1px solid #bbb;
+    padding: 1rem;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+
+.student_row2:hover{
+    background-color: #bbb;
+}
+.col-heading{
+    padding: 1rem;
+    margin: 20px;
+}
+.student_col{
+    padding: 1rem;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+.btn{
+    padding: 1rem;
+    background-color: darkcyan;
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 8px;
+}
+.btns{
+    text-align: center;
+}
+
+.popupBox{
+    /* visibility: hidden; */
+    width: 800px;
+    height: 400px;
+    background-color: white;
+    border: 2px solid #ccc;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    right: 20%;
+    bottom: 20%;
+    text-align: center;
+
+}
+.popupBox form{
+    color: black;
+    /* font-size: 1.5rem; */
+
+}
+.text{
+    padding: 12px;
+    margin: 20px;
+    width: 30%;
+
+}
+label{
+    font-size: 1.5rem; 
+
+}
+.marks{
+    padding: 12px;
+    margin: 10px;
+    width: 12%;
+    margin-top: 20px;
+
+}
+.heading{
+    background-color: cadetblue;
+    color: white;
+}
